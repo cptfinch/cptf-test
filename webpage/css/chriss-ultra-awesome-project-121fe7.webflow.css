@@ -1,0 +1,100 @@
+.body {
+  background-color: #e74c3c;
+  font-family: Roboto, sans-serif;
+  color: #e74c3c;
+}
+
+.quote-box {
+  display: block;
+  width: 450px;
+  margin: 8% auto auto;
+  padding: 40px 50px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  border-radius: 3px;
+  background-color: #fff;
+  font-family: Raleway, sans-serif;
+}
+
+.quote-box.quote-text {
+  clear: both;
+  font-size: 1.75em;
+  font-weight: 500;
+  text-align: center;
+}
+
+.myquote {
+  margin-top: 34px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+.cf-social-media-buttons {
+  margin-right: 5px;
+  float: left;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  border-radius: 4px;
+  font-family: Roboto, sans-serif;
+}
+
+.cf-button-row {
+  display: block;
+  margin-top: 21px;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.cf-get-a-quote {
+  position: static;
+  float: right;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  border-radius: 4px;
+  font-family: Roboto, sans-serif;
+}
+
+.div-block-2 {
+  clear: both;
+  font-size: 1.75em;
+  font-weight: 500;
+  text-align: center;
+}
+
+.quote {
+  display: inline;
+  line-height: 30px;
+}
+
+.div-block-3 {
+  padding-top: 15px;
+  clear: both;
+  font-size: 1em;
+  text-align: right;
+}
+
+.image {
+  display: block;
+  margin-right: 10px;
+  float: left;
+}
+
